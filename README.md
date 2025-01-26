@@ -129,4 +129,4 @@ In the app, users can input a message in the text area, click "Predict," and the
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Acknowledgments
 -
-This project uses Scikit-Learn, XGBoost, Streamlit, and NLTK libraries. Thanks to the open-source community for providing these tools.
+This project uses Scikit-Learn, ExtraTree Classifier, Streamlit, and NLTK libraries. Thanks to the open-source community for providing these tools.
